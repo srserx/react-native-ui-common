@@ -1,0 +1,27 @@
+{
+  "name": "react-native-ui-common",
+  "version": "1.0.0",
+  "description": "React native reusable UI components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srserx/react-native-ui-common.git"
+  },
+  "keywords": [
+    "react-native",
+    "ui"
+  ],
+  "author": "Sergi",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-native": "^0.41.2",
+  },
+  "bugs": {
+    "url": "https://github.com/srserx/react-native-ui-common/issues"
+  },
+  "homepage": "https://github.com/srserx/react-native-ui-common#readme"
+}
